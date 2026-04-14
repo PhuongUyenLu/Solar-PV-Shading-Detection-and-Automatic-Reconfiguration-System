@@ -5,7 +5,7 @@ This project develops a hardware-based system to detect partial and full shading
 
 ![Solar Baseline](Solar_Baseline.png)
 
-*Figure: 5 MW solar PV baseline system developed in Visio based on industry references.*
+*Fig.1: 5 MW solar PV baseline system developed in Visio based on industry references.*
 
 The baseline solar PV system architecture was developed using Microsoft Visio based on component research and references from real-world solar farm designs. The diagram represents a multi-array photovoltaic system integrated with combiner boxes, a DC bus bar, and grid-connected inverters.
 
