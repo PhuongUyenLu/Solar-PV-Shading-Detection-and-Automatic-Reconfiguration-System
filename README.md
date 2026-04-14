@@ -57,6 +57,7 @@ The hardware prototype was developed to implement and validate the shading detec
 - 18 photovoltaic (PV) panels total  
 - 3 parallel strings  
 - 6 panels connected in series per string  
+- Each PV panel rated at approximately **5 V, 200 mA** 
 
 ### 🔌 Main Components
 - Relay-based bypass switching for panel-level control  
