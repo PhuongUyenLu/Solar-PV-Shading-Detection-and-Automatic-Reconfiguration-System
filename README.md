@@ -2,7 +2,7 @@
 This project develops a hardware-based system to detect partial and full shading in solar PV arrays using current sensors and a microcontroller. Relay-based bypass switching automatically reconfigures the system to reduce power loss and improve efficiency under varying shading conditions.
 
 ## System Architecture (Baseline Design - 5 MW solar farm)
-<img src="images/solar_baseline_5MW.png" width="700">
+<img src="images/5MW_Solar_Baseline" width="700">
 
 *Figure: 5 MW solar PV baseline system developed in Visio based on industry references.*
 
