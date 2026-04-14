@@ -70,8 +70,16 @@ The hardware prototype was developed to implement and validate the shading detec
 ### 🌡️ Cooling System
 - 2 fans used as cooling load  
 - Separate microcontroller for fan control  
-- DHT11 temperature sensor  
-- Fans automatically turn on when temperature exceeds 26°C  
+- DHT11 temperature sensor for temperature monitoring  
+- OLED display used to show real-time temperature and fan ON/OFF status  
+- Fans automatically turn ON when temperature exceeds **26°C**  
+
+### ⚡ Fan Control Circuit
+- 12V fans powered directly from the battery supply  
+- IRLZ44N MOSFET used as an electronic switch to control fan ON/OFF  
+- Allows the microcontroller to safely control higher current loads  
+- Flyback diode placed across the fan to suppress voltage spikes  
+- Prevents back-EMF from the fan, protecting the microcontroller and avoiding unexpected resets  
 
 ### ☀️ Testing Setup
 - Artificial light sources used to simulate sunlight  
