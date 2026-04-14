@@ -105,4 +105,6 @@ The hardware prototype was developed to implement and validate the shading detec
 ![Hardware Prototype](hardware_prototype_1.JPG) 
 ![Hardware Prototype](hardware_prototype_2.JPG)
 *Fig. 2, 3, 4: Hardware prototype of the solar PV shading detection and automatic reconfiguration system.*
-## 🎥 Demo  
+## 🎥 Demo Video
+
+[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/gVgefJdvrNc)
