@@ -3,7 +3,7 @@ This project develops a hardware-based system to detect partial and full shading
 
 ## System Architecture (Baseline Design - 5 MW solar farm)
 
-![5MW Solar Baseline](Screenshot 2026-04-13 215243.png)
+![Solar Baseline](Solar_Baseline.png)
 
 *Figure: 5 MW solar PV baseline system developed in Visio based on industry references.*
 
