@@ -107,4 +107,19 @@ The hardware prototype was developed to implement and validate the shading detec
 *Fig. 2, 3, 4: Hardware prototype of the solar PV shading detection and automatic reconfiguration system.
 
 ## 🎥 Demo Video
-[![Shading detection & bypass switch activation - Part 2](https://img.youtube.com/vi/KLnOnWkNSho/0.jpg)](https://youtu.be/KLnOnWkNSho)
+
+### Shading detection & bypass switch activation - Part 1
+[![Watch Demo](https://img.youtube.com/vi/i5Fb5n4651U/0.jpg)](https://youtu.be/i5Fb5n4651U)
+
+### Shading detection & bypass switch activation - Part 2
+[![Watch Demo](https://img.youtube.com/vi/KLnOnWkNSho/0.jpg)](https://youtu.be/KLnOnWkNSho)
+
+### Current Sensor Verification
+
+[![Test 1](https://img.youtube.com/vi/z9gRoUxkJ2U/0.jpg)](https://www.youtube.com/shorts/z9gRoUxkJ2U)
+[![Test 2](https://img.youtube.com/vi/BEqbTg68jDI/0.jpg)](https://www.youtube.com/shorts/BEqbTg68jDI)
+[![Test 3](https://img.youtube.com/vi/O8PFI6zGVdM/0.jpg)](https://www.youtube.com/shorts/O8PFI6zGVdM)
+[![Test 4](https://img.youtube.com/vi/fsx9uF8vc8Y/0.jpg)](https://www.youtube.com/shorts/fsx9uF8vc8Y)
+
+### Solar System Project - Overview
+[![Watch Demo](https://img.youtube.com/vi/KLnOnWkNSho/0.jpg)](https://youtu.be/KLnOnWkNSho)
